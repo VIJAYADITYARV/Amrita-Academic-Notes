@@ -27,6 +27,8 @@ Due to the large volume of files (PDFs, PPTs, scanned notes), the complete mater
 ## 🗂 Folder Structure
 
 The academic materials are organized **semester-wise**, and within each semester, **subject-wise**.
+> 📌 Below structure reflects how materials are organized in Google Drive.
+
 ```
 amrita-academic-notes/
 │
