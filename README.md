@@ -12,7 +12,12 @@ Due to the large volume of files (PDFs, PPTs, scanned notes), the complete mater
 - 📂 Subject-wise folders (Maths, DS, OS, DBMS, etc.)  
 - 📊 PPTs & reference slides  
 - 💻 Lab manuals & coursework references  
-- 🧮 Problem sheets & revision material  
+- 🧮 Problem sheets & revision material
+
+## 🎯 Purpose
+- Personal academic archive
+- Revision & reference
+- Knowledge sharing
 
 ---
 
@@ -32,31 +37,36 @@ The academic materials are organized **semester-wise**, and within each semester
 ```
 amrita-academic-notes/
 │
-├── SEM1/
-│ ├── Subject-1/
-│ │ ├── PPTs/
-│ │ ├── Notes/
-│ │ ├── Lab/
-│ │ └── Coursework/
-│ ├── Subject-2/
-│ └── ...
+├── SEM-1/
+│   ├── Calculas/
+│   ├── CHE - Computer Hardware essentials /
+│   ├── EEE - basic electrical and electronic/
+│   └── CPS - python/ etc...
+
 │
-├── SEM2/
-│ ├── Subject-1/
-│ ├── Subject-2/
-│ └── ...
+├── SEM-2/
+│   ├── Linear-Algebra/
+│   ├── UID/
+│   ├── OOPS/
+│   └── Discrete Mathematics/ etc...
 │
-├── SEM3/
-│ ├── Subject-1/
-│ ├── Subject-2/
-│ └── ...
+├── SEM-3/
+│   ├── DSA/
+│   ├── DBMS/
+│   └── Digital Electronics/ etc...
 │
-├── SEM4/
-│ ├── Subject-1/
-│ ├── Subject-2/
-│ └── ...
+├── SEM-4/
+│   ├── OS/
+│   ├── COA/
+│   └── DAA/ etc...
+│
+├── SEM-5/
+│   ├── ML/
+│   ├── DAA/
+│   └── Computer Networks/ etc...
 │
 └── README.md
+
 ```
 
 
