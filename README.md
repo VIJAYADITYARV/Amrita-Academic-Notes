@@ -27,6 +27,7 @@ Due to the large volume of files (PDFs, PPTs, scanned notes), the complete mater
 ## 🗂 Folder Structure
 
 The academic materials are organized **semester-wise**, and within each semester, **subject-wise**.
+```
 amrita-academic-notes/
 │
 ├── SEM1/
@@ -54,6 +55,7 @@ amrita-academic-notes/
 │ └── ...
 │
 └── README.md
+```
 
 
 
